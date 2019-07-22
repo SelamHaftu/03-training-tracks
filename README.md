@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Selam Haftu
 
-Track Name: 
+Track Name: Mobile Development
 
-Track Description: 
+Track Description: Android mobile application
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
